@@ -1,2 +1,3 @@
 # TextSummarizer
-A Desktop Application Using Machine Learning and Python
+A Desktop Application Using Machine Learning and Python 
+														~By Batman
